@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LewBranch and is an engineer with a big passion for programming. I'm in the process of changing career path. I've been previously working as a civil engineer with a speciality in geotechnics, with having programming as a side hobby. I'll now beggining a career as a Software Engineer. 
+- 👋 Hi, I’m @LewBranch, Master of Science in Engineering (Civilingenjör) with a big passion for programming. I'm in the process of changing career path. I've been previously working as a civil engineer with a speciality in geotechnics, having programming as a side hobby. I'll now beggining a career as a Software Engineer. 
 - 👀 I’m interested in AI, oop-programming for Software, Databases, Web development. 
 - 🌱 I’m currently learning in Python, c++, SQL, PHP and JS
 - 💞️ I’m looking to collaborate on ...
